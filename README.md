@@ -1,2 +1,2 @@
-# Gy-szbot
-Ez csak egy Gyász
+# Gyaszbot
+Ez csak egy Gyasz
